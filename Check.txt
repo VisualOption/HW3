@@ -1,0 +1,17 @@
+- check the opening and availability of the site;
+
+- check the opening and availability of the site again after it is closed;
+
+- check that all menu items work;
+
+- check that the buttons on the site are pressed;
+
+- check that all links open;
+
+- make sure there are no broken links;
+
+- fill out and check all forms on the site;
+
+- check the functionality of the main elements of the site;
+
+- upload documents and check the correctness of the upload;
